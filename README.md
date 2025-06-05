@@ -1,4 +1,4 @@
 # New Project
 
 This project was created from local system.
-Created by Gayathri peteti
+Created by Gayathri peteti.
